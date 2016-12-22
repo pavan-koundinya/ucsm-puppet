@@ -1,0 +1,8 @@
+---
+name : ciscotest12
+descr : ciscotest12
+reboot_on_update : no
+policy_owner : local
+enforce_vnic_name : yes
+boot_mode : uefi
+state : absent

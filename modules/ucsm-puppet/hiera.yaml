@@ -1,0 +1,8 @@
+:hierarchy:
+    - credentials
+    - boot_policy
+:backends:
+    - yaml
+:yaml:
+    :datadir: '/etc/puppet/modules/ucsm-puppet/hieradata/'
+
